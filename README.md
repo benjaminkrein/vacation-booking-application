@@ -1,17 +1,3 @@
-# WESTERN GOVERNORS UNIVERSITY
-
-## D288 – Back-End Programming
-
-Name: Benjamin Krein    
-Course: D288 Back-End Programming    
-Student ID: 011923730
-
-### Git Repository URL
-https://gitlab.com/wgu-gitlab-environment/student-repos/bkrein/d288-back-end-programming.git
-
-### Repository Graph
-https://gitlab.com/wgu-gitlab-environment/student-repos/bkrein/d288-back-end-programming/-/network/working_branch
-
 ### Task A.
 
 ---
